@@ -1,2 +1,4 @@
 # Software-Eng-CPSC-362
-Group Project for creating a custom software application
+Ethan Stupin (ethstup@csu.fullerton.edu)
+Carlos
+Jake
