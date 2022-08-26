@@ -1,4 +1,5 @@
-# Software-Eng-CPSC-362
+# CPSC 362 Group Project
+## SonGuessr
 Ethan Stupin (ethstup@csu.fullerton.edu)
 Carlos
 Jake
