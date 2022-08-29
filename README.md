@@ -3,5 +3,5 @@
 SongGuessr
 ## Group Members
 Ethan Stupin (ethstup@csu.fullerton.edu)  <br />
-Carlos      ()  <br />
+Carlos      (closgarcia@csu.fullerton.edu)  <br />
 Jake        (harvanchik@csu.fullerton.edu)
